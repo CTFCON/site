@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?3pgiup');
+  src:  url('fonts/icomoon.eot?3pgiup#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?3pgiup') format('truetype'),
+    url('fonts/icomoon.woff?3pgiup') format('woff'),
+    url('fonts/icomoon.svg?3pgiup#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-logo:before {
+  content: "\e919";
+}
+.icon-slash-bora:before {
+  content: "\e918";
+  color: #5b45f3;
+}
+.icon-sms:before {
+  content: "\e914";
+  color: #5b45f3;
+}
+.icon-hand-touch:before {
+  content: "\e915";
+  color: #5b45f3;
+}
+.icon-notification:before {
+  content: "\e916";
+  color: #5b45f3;
+}
+.icon-chart:before {
+  content: "\e917";
+  color: #5b45f3;
+}
+.icon-user-time:before {
+  content: "\e900";
+}
+.icon-hand-up:before {
+  content: "\e901";
+}
+.icon-coin-user:before {
+  content: "\e902";
+}
+.icon-Group-34991:before {
+  content: "\e91a";
+}
+.icon-target-chart:before {
+  content: "\e903";
+}
+.icon-user-chart:before {
+  content: "\e904";
+}
+.icon-device-cloud:before {
+  content: "\e905";
+}
+.icon-cloud-dots:before {
+  content: "\e906";
+}
+.icon-phone-cloud:before {
+  content: "\e907";
+}
+.icon-device-sync:before {
+  content: "\e908";
+}
+.icon-phone-sync:before {
+  content: "\e909";
+}
+.icon-user-sync:before {
+  content: "\e90a";
+}
+.icon-coin-up:before {
+  content: "\e90b";
+}
+.icon-hand-coin-up:before {
+  content: "\e90c";
+}
+.icon-money-transfer:before {
+  content: "\e90d";
+}
+.icon-slash:before {
+  content: "\e90e";
+  color: #63e483;
+}
+.icon-facebook:before {
+  content: "\e90f";
+}
+.icon-linkedin:before {
+  content: "\e910";
+}
+.icon-twitter:before {
+  content: "\e911";
+}
+.icon-instagram:before {
+  content: "\e912";
+}
+.icon-youtube:before {
+  content: "\e913";
+}
