@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+html, body {
+    font-family: PingFangSC, PingFang SC, Microsoft YaHei, "Plus Jakarta Sans", sans-serif;
+    font-size: 16rem;
+    overflow-x: hidden;
+}
+
+.view-mobile {
+    display: none;
+}
+
+.view-web {
+    display: block;
+}
+
+@media screen and (max-width: 865px) {
+    .view-mobile {
+        display: block;
+    }
+    .view-web {
+        display: none !important;
+    }
+}
+
+:root {
+    --content-width: min(1200rem, 80vw);
+}
